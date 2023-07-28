@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=PT+Serif&size=32&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=Hi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=PT+Serif&size=32&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=안녕하세요)](https://git.io/typing-svg)
 
 
 
